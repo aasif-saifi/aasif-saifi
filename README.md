@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is MOHD AASIF ... and I'm a .tech student.., from .iimt university ....I am pursuing MCA</h2>
+<h2 align="left">Hi 👋! My name is MOHD AASIF ... and I'm a .tech student..</h2>
 
 ###
 
